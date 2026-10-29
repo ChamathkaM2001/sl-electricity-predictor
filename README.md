@@ -2,7 +2,7 @@
 
 Predicts a Sri Lankan household's **average monthly grid electricity consumption (kWh)** from a one-time survey of the house, its occupants and their appliances, with a **calibrated uncertainty range** and **SHAP explanations** for every prediction.
 
-**Live app:** <!-- paste your Streamlit Cloud link here -->
+**Live app:** (https://sl-electricity-predictor.streamlit.app/)
 
 ## Approach
 
